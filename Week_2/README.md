@@ -10,4 +10,4 @@
 
 ### Here are some tasks to practice what we learnt through this week 2
 
-### Task 1 -  Here is the first ever website made up using HTML, Try cloning it on your own [reference image](http://info.cern.ch/hypertext/WWW/TheProject.html)
+- ### Task 1 -  Here is the first ever website made up using HTML, Try cloning it on your own [reference image](http://info.cern.ch/hypertext/WWW/TheProject.html)
